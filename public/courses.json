@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Web Design for Beginners: Real World Coding in HTML & CSS",
+        "id": 1,
+        "img": "https://thumbs.dreamstime.com/z/responsive-web-design-scalable-vector-illustration-34156886.jpg",
+        "price": 120,
+        "duration": "6 Month",
+        "ratting": 4.5,
+        "ratedBy": 18109,
+        "shortDescription": "Launch a career as a web designer by learning HTML5, CSS3, responsive design, Sass and more!",
+        "description": "You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust. Don't limit yourself by creating websites with some cheesy site-builder tool. This course teaches you how to take 100% control over your webpages by using the same concepts that every professional website is created with.This course does not assume any prior experience. We start at square one and learn together bit by bit. By the end of the course you will have created (by hand) a website that looks great on phones, tablets, laptops, and desktops alike.In the summer of 2020 the course has received a new section where we push our website live up onto the web using the free GitHub Pages service; this means you'll be able to share a link to what you've created with your friends, family, colleagues and the world!"
+    },
+    {
+        "title": "The Complete JavaScript Course",
+        "id": 2,
+        "img": "https://couponos.me/wp-content/uploads/The-Complete-JavaScript-Course.jpg",
+        "price": 150,
+        "duration": "9 Month",
+        "ratting": 5,
+        "ratedBy": 118211,
+        "shortDescription": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "description": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.That's why you want to learn JavaScript too. And you came to the right place.This is the most complete JavaScript course . It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects."
+    },
+    {
+        "title": "Node with React Web Development",
+        "id": 3,
+        "img": "https://www.unieclass.com/image/cache/contributor/lib-12/NQOHISlaRHPf9rsE4lFjVicFrgKsymlZ/Node%20with%20React%20Fullstack%20Web%20Development-869x449.jpg",
+        "price": 250,
+        "duration": "6 Month",
+        "ratting": 4,
+        "ratedBy": 145760,
+        "shortDescription": "Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",
+        "description": "This course will teach you to combine the ultra-popular React, Redux, Express, and MongoDB technologies to build a fullstack web application.Advanced Deployment? You will learn it.  Billing/Payments? Included.  Handling Email? Of course. All of my courses are 'learn-by-doing': no boring endless lectures with Powerpoints, only live, interactive coding examples.  In this course we'll build one massive web application that profiles the advanced features of React, Redux, Express, and Mongo.  By putting each concept into a real app, you'll get a better idea of when to use each unique and powerful feature."
+    },
+    {
+        "title": "Modern JavaScript From The Beginning",
+        "id": 4,
+        "img": "https://coursemarks.com/wp-content/uploads/2020/11/1463348_52a4_2.jpg",
+        "price": 120,
+        "duration": "6 Month",
+        "ratting": 4.5,
+        "ratedBy": 45760,
+        "shortDescription": "Learn and build projects with pure JavaScript (No frameworks or libraries)",
+        "description": "This is a front to back JavaScript course for absolutely everybody. We start with the basic fundamentals and work our way to advanced programming WITHOUT relying on frameworks or libraries at all. You will learn a ton of pure JavaScript, whether you are a beginner or an established JS programmer. There is something for everyone.In this course we'll build one massive web application that profiles the advanced features of React, Redux, Express, and Mongo.  By putting each concept into a real app, you'll get a better idea of when to use each unique and powerful feature."
+    },
+    {
+        "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "id": 5,
+        "img": "https://freecoursesites.com/wp-content/uploads/2020/01/React-The-Complete-Guide-incl-Hooks-React-Router-Redux-Course-Site.jpg",
+        "price": 100,
+        "duration": "3 Month",
+        "ratting": 4,
+        "ratedBy": 22760,
+        "shortDescription": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+        "description": "This course is the most up-to-date, comprehensive and bestselling React course on Udemy!It was completely updated and re-recorded from the ground up in 2021 - it teaches the very latest version of React with all the core, modern features you need to know!This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements! :-)React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well."
+    },
+    {
+        "title": "The Python Mega Course: Build 10 Real World Applications",
+        "id": 6,
+        "img": "https://blog.vilmatech.com/wp-content/uploads/2018/04/learn-python.jpg",
+        "price": 190,
+        "duration": "6 Month",
+        "ratting": 4.5,
+        "ratedBy": 122760,
+        "shortDescription": "Go from zero to hero in Python in weeks! Learn Python the easy way by building real-life Python programs!",
+        "description": "he Python Mega Course is the most practical course you will find on the web today. In this course, rather than practicing rote memorization, students are actively problem-solving towards tangible goals. You will learn to build real-life desktop programs with graphical user interfaces,  automate routine tasks, control the computer webcam, develop interactive web applications using Flask and Django, scrape and visualize data, and more. You will become a programmer able to produce real-life Python programs and even create professional .exe or .app executables so that everyone can install and use your programs. There will be ten real-world Python applications that you will learn how to build. This first app will be a simple Python program that will help you practice all core Python building blocks you learned in the previous sections of the course. You will learn how to combine Python core concepts with the codebase of a third-party Python web mapping library to create interactive web maps on the browser. That will help you understand how to use core Python blocks such as conditionals, for-loops, and functions in a real-world program."
+    },
+    {
+        "title": "Responsive Web Design Essentials - HTML5 CSS3 Bootstrap",
+        "id": 7,
+        "img": "https://cdn.wccftech.com/wp-content/uploads/2020/07/Responsive-Web-Design-Essentials.jpg",
+        "price": 60,
+        "duration": "3 Month",
+        "ratting": 5,
+        "ratedBy": 32760,
+        "shortDescription": "The best course for learning the basics of HTML5 and CSS3 from scratch. Including 5 projects, perfect for beginners.",
+        "description": "Hi there, my name is Daniel Scott and together we’re going to learn how to build professional responsive websites. which look good on mobiles, tablets and desktop screens.We cover everything you need to build your first website. From creating your first page through to uploading your website to the internet. We’ll use the world’s most popular (and free) web design tool called Visual Studio Code There are exercise files you can download and then work along with me. At the end of each video I have a downloadable version of where we are in the process so that you can compare your project with mine. This will enable you to see easily where you might have a problem."
+    },
+    {
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "id": 8,
+        "img": "https://1.bp.blogspot.com/-oEW4FTrjsxM/XTsGQ3N75YI/AAAAAAAAAwQ/d2KrK3ASwNIXC4mDHKg-71M7mLXNXhbtgCLcBGAs/s1600/python-and-django-full-stack-web-developer-bootcamp.jpg",
+        "price": 99,
+        "duration": "6 Month",
+        "ratting": 4,
+        "ratedBy": 42760,
+        "shortDescription": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!.",
+        "description": "Welcome to the Python and Django Full Stack Web Developer Bootcamp! In this course we cover everything you need to know to build a website using Python, Django, and many more web technologies! Whether you want to change career paths, expand your current skill set, start your own entrepreneurial business, become a consultant, or just want to learn, this is the course for you! We will teach you the latest technologies for building great web applications with Python 3 and Django! But we don't just teach that, we also teach the Front End technologies you need to know, including HTML, CSS, and Javascript. This course can be your one stop shop for everything you need! It will serve as a useful reference for many of your questions as you begin your journey in becoming a web developer!"
+    },
+    {
+        "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+        "id": 9,
+        "img": "https://miro.medium.com/max/1400/1*FVtCyRdJ6KOr4YswTtwMeA.jpeg",
+        "price": 199,
+        "duration": "9 Month",
+        "ratting": 5,
+        "ratedBy": 142760,
+        "shortDescription": "Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2021.",
+        "description": "Welcome to MERN Stack Front To Back. In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application. This is NOT an Intro to React or Intro to Node course. It is a practical hands on course for building an app using the incredible MERN stack. I do try and explain everything as I go so it is possible to follow without React/Node experience but it is recommended that you know at least the basics first.This course can be your one stop shop for everything you need! It will serve as a useful reference for many of your questions as you begin your journey in becoming a web developer!"
+    }
+]
