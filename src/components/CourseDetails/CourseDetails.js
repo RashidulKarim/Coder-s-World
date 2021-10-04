@@ -29,7 +29,7 @@ const CourseDetails = () => {
                         </div>
                         <div className='d-flex justify-content-center'>
                         <h6 className='w-25'>Price:  $ {matchCourse.price} </h6>
-                        <h6>{matchCourse.duration}</h6>
+                        <h6>Duration: {matchCourse.duration}</h6>
                         </div>
                         <p className='text-start text-black-50'><small>{matchCourse.description}</small></p>
                         <button className='rounded py-2 px-5'>Buy Now</button>
