@@ -28,15 +28,15 @@ const Header = () => {
                     <h3><Link className='text-decoration-none' style={{ border:'2px solid gray', padding:'8px 15px', backgroundColor:"black", color:'white'}} to='/home'>CODE ACADEMY</Link></h3>
                 </div>
                 <div className="nav">
-                <nav>
-                    <ul className='list-unstyled d-flex'>
-                        <li><Link className='text-decoration-none pe-3 text-black font-weight-bolder' to='/home'>HOME</Link></li>
-                        <li><Link className='text-decoration-none pe-3 text-black font-weight-bolder' to='/courses'>COURSES</Link></li>
-                        <li><Link className='text-decoration-none pe-3 text-black font-weight-bolder' to='/about'>ABOUT US</Link></li>
-                        <li><Link className='text-decoration-none text-black font-weight-bolder' to='/contact'>CONTACT US</Link></li>
-                        
-                    </ul>
-                </nav>
+                    <nav>
+                        <ul className='list-unstyled d-flex'>
+                            <li><Link className='text-decoration-none pe-3 text-black font-weight-bolder' to='/home'>HOME</Link></li>
+                            <li><Link className='text-decoration-none pe-3 text-black font-weight-bolder' to='/courses'>COURSES</Link></li>
+                            <li><Link className='text-decoration-none pe-3 text-black font-weight-bolder' to='/about'>ABOUT US</Link></li>
+                            <li><Link className='text-decoration-none text-black font-weight-bolder' to='/contact'>CONTACT US</Link></li>
+                            
+                        </ul>
+                    </nav>
                 </div>
             </div>
         </div>
