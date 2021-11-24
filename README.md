@@ -1,4 +1,4 @@
-# CODE ACADEMY (https://top-doctors.netlify.app/)
+# CODE ACADEMY (https://rk-codeacademy.netlify.app/)
 
 This app contain 9 world's best web development courses. you can choose them and view all details.
 ## Features:
